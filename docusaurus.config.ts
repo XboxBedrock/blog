@@ -59,9 +59,11 @@ const config: Config = {
   ],
 
   themeConfig: {
+    colorMode: {
+      defaultMode: 'dark',
+      respectPrefersColorScheme: false,
+    },
     // Replace with your project's social card
-    defaultMode: 'dark',
-    respectPrefersColorScheme: false,
     image: 'img/docusaurus-social-card.jpg',
     navbar: {
       title: 'Sushrut\'s Blog',
