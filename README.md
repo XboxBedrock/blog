@@ -1,5 +1,4 @@
 # Sushrut's Blog
----
 
 Hi! You came across my blog, please visit at https://blog.sushrut.dev
 
